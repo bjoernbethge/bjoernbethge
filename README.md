@@ -1,7 +1,5 @@
 # 👋 Hi, I'm Björn Bethge
 
-## 🦙 AI Engineer | Herding neural networks, not llamas
-
 Building **intelligent solutions** where AI meets 3D visualization—20+ years evolving from creative coding to deep learning, always finding simple paths through complex technologies.
 
 ---
