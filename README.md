@@ -130,10 +130,13 @@ Building **intelligent solutions** where AI meets 3D visualization—20+ years e
 
 <img src="https://img.shields.io/badge/Blender-4.4-orange.svg" alt="Blender 4.4" />
 <img src="https://img.shields.io/badge/Python-3.11+-blue.svg" alt="Python 3.11+" />
-<img src="https://img.shields.io/pypi/dm/bpy-widget" alt="PyPI Downloads" />
 
 </div>
 
 ---
 
-> *"Breaking complexity down to simple solutions"*
+<div align="center">
+  
+*"Breaking complexity down to simple solutions"*
+
+</div>
