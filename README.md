@@ -4,15 +4,6 @@ Building **intelligent solutions** where AI meets 3D visualization—20+ years e
 
 ---
 
-### 🧠 Current Projects
-
-- **[CodeGen-HGR](https://github.com/bjoernbethge/codegen-hgr):** Merging Graph Neural Networks with frozen LLMs for advanced code understanding
-- **[Astrolab](https://github.com/bjoernbethge/astrolab):** Large-scale ML analysis and visualization of cosmological data
-- **Local LLM Optimization:** Pushing boundaries with 1M+ token contexts and 4-bit quantization
-- **Ollama Models:** [qwen3-coder-30b](https://ollama.com/bjoernb/qwen3-coder-30b) | [qwen3-coder-30b-1m](https://ollama.com/bjoernb/qwen3-coder-30b-1m) | [gemma-3n](https://ollama.com/bjoernb/gemma-3n)
-
----
-
 ### 🛠️ Tech Stack
 
 **AI/ML:**
