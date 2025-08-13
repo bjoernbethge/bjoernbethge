@@ -81,7 +81,7 @@ Building **intelligent solutions** where AI meets 3D visualization—20+ years e
 
 ### 📚 Education & Philosophy
 
-- **AI Engineering Studies** (Digethics, 2024)
+- **AI Engineering Studies** (Digethics, 2025)
 - **European Art Designer** (EPZ/Virtual-Pix, 2008)
 - **IC.IDO Certifications** (ICIDO GmbH, 2008-2009)
   - VDP Support (ITIL 2nd Level)
