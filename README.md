@@ -1,74 +1,16 @@
 # 👋 Hi, I'm Björn Bethge
 
 Building **intelligent solutions** where AI meets 3D visualization—20+ years evolving from creative coding to deep learning, always finding simple paths through complex technologies.
-
 ---
+**AI/ML Engineering**
 
-### 🛠️ Tech Stack
-
-**AI/ML:**
-- PyTorch, Lightning, Transformers, Torch Geometric
-- Graph Neural Networks, Attention Mechanisms, MoE Architectures
-- Local Inference: Ollama, llama.cpp, GGUF, 4-bit Quantization
-- Computer Vision: OpenCV, Torchvision, 3D Deep Learning
-
-**Engineering:**
-- Python (since 2004) | C++ (since 2004) | CUDA | Rust (learning)
-- Blender Python API | Unreal Engine | AR/VR
-- FastAPI | Docker | Edge Deployment
-
----
-
-### 🚀 Open Source Contributions
-
-#### Published PyPI Packages
-- **[torch-relativistic](https://pypi.org/project/torch-relativistic/):** Physics-inspired neural network components
-- **[pydeevo](https://pypi.org/project/pydeevo/):** Neural architecture search & hyperparameter optimization
-- **[marimo-flow](https://pypi.org/project/marimo-flow/):** Interactive ML notebooks with MLflow integration
-- **[bpy-widget](https://pypi.org/project/bpy-widget/):** Interactive Blender 3D viewport for notebooks
-- **[illustris](https://pypi.org/project/illustris/):** Enhanced tools for cosmological simulation data
-
-#### Ollama Models
-- **[qwen3-coder-30b](https://ollama.com/bjoernb/qwen3-coder-30b):** 256k context with tool support
-- **[qwen3-coder-30b-1m](https://ollama.com/bjoernb/qwen3-coder-30b-1m):** 1M token context variant
-- **[gemma-3n](https://ollama.com/bjoernb/gemma-3n):** Edge-optimized with tool calling
-
----
-
-### 🏭 Industry Experience
-
-**Effekt-Etage (2022-2024):** Pipeline Developer
-- Unreal Engine C++ development for Adidas VR Studio & VW Streaming Configurator
-- Python REST APIs & Unreal Engine scripting
-- Full-stack development (TypeScript, Node.js, Vue.js)
-- Docker containerization & virtual development environments
-
-**Volkswagen Group R&D (2008-2022):** Technical Specialist → Lead
-- **Digital Twin & Visualization:** Lead for Audi A8 Digital Twin, RTT DeltaGen expert
-- **VR/AR Development:** Unity real-time visualizations, VR designer
-- **Systems & Tools:** IC IDO, Autodesk VRED, 3ds Max - configuration & optimization
-- **Knowledge Transfer:** Trained students, PhDs, and colleagues in immersive technologies
-- **Research Support:** System calibration, study supervision, data pipeline development
-- **Project Management:** Cross-departmental coordination, release management
-
+### 🏭 Industry and Enterprise Experience
 *Journey: 3D Artist → VR Designer → System Architect → Pipeline Developer → AI Engineer*
 
-**Virtual-Pix (2007-2008):** Digital Artist
+**Digital Artist:** 
 - 3D animations & visual effects
 - Transitioned from IT to creative technology
-
-**Multi Media BBS (2004-2007):** IT System Kaufmann
-- First programming: C++, Python via Blender 3D (Python API & Game Engine)
-- Early game modding experience
 - Foundation in both business IT and creative coding
-
-**Notable Projects:**
-- [Adidas VR Virtual Photostudio (NVIDIA Feature)](https://blogs.nvidia.com/blog/covision-adidas-rtx-ai/)
-- Volkswagen 3D Streaming Configurator
-
-![Volkswagen 3D Streaming Configurator](https://www.gorillastreaming.com/images/imac/IMAC_ID7.webp)
-
----
 
 ### 🎯 Research Interests
 
