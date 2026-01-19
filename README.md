@@ -1,10 +1,14 @@
 # 👋 Hi, I'm Björn Bethge
 
-Building **intelligent solutions** where AI meets 3D visualization—20+ years evolving from creative coding to deep learning, always finding simple paths through complex technologies.
+Building **intelligent solutions** where AI meets 3D visualization—20+ years from creative coding to deep learning, simplifying complex technologies.
 
 ---
-*Journey: 3D Artist → VR Designer → System Architect → → AI / ML Engineering*
+*Journey: 3D Artist → VR Designer → System Architect → AI/ML Engineering*
 ---
+
+### 📸 Profile Snapshot
+
+![Profile snapshot – 2026-01-18](https://github.com/user-attachments/assets/4bf448c0-240f-455b-be12-ecd010b48873)
 
 ### 🔗 Connect
 
