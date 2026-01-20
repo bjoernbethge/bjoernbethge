@@ -8,10 +8,6 @@ Building **intelligent solutions** where AI meets 3D visualization—20+ years f
 *Journey: 3D Artist → VR Designer → System Architect → AI/ML Engineering*
 ---
 
-### 📸 Profile Snapshot
-
-![Profile snapshot – 2026-01-18](https://github.com/user-attachments/assets/4bf448c0-240f-455b-be12-ecd010b48873)
-
 </div>
 
 <div align="center">
