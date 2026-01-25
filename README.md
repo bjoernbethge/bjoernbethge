@@ -82,22 +82,6 @@ class BjoernBethge:
 
 ---
 
-## 🔭 Featured Projects
-
-<div align="center">
-
-| Project | Description | Tech |
-|---------|-------------|------|
-| 🌌 **[astro-lab](https://github.com/bjoernbethge/astro-lab)** | Astronomical ML framework with 3D visualization | `Python` `ML` `Blender` |
-| 🔄 **[marimo-flow](https://github.com/bjoernbethge/marimo-flow)** | Interactive ML notebooks with reactive updates | `Python` `MLflow` `Marimo` |
-| 🎮 **[bpy-widget](https://github.com/bjoernbethge/bpy-widget)** | Blender 3D viewport widget for notebooks | `Python` `Blender` `Eevee` |
-| 🌍 **[infinigen](https://github.com/bjoernbethge/infinigen)** | Procedural photorealistic world generation | `Python` `Blender` `Procedural` |
-| ✨ **[astronomical](https://github.com/bjoernbethge/astronomical)** | Blender extension for astronomical applications | `Python` `Blender` `Astronomy` |
-
-</div>
-
----
-
 ## 🔗 Connect
 
 <div align="center">
