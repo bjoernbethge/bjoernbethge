@@ -74,14 +74,6 @@ class BjoernBethge:
 
 ---
 
-## 🏆 GitHub Trophies
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=bjoernbethge&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=10"/>
-</div>
-
----
-
 ## 🔗 Connect
 
 <div align="center">
