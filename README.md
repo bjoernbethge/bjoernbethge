@@ -63,10 +63,6 @@ class BjoernBethge:
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bjoernbethge&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=4C8EDA&langs_count=8"/>
 </div>
 
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=bjoernbethge&theme=tokyonight&hide_border=true&background=0D1117&stroke=4C8EDA&ring=4C8EDA&fire=FF6B6B&currStreakLabel=4C8EDA" alt="GitHub Streak"/>
-</div>
-
 <!-- Activity Graph -->
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=bjoernbethge&bg_color=0D1117&color=4C8EDA&line=4C8EDA&point=FFFFFF&area=true&hide_border=true" width="100%"/>
