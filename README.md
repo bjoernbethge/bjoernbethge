@@ -17,12 +17,24 @@ class BjoernBethge:
     def __init__(self):
         self.role = "AI/ML Engineer & 3D Visualization Specialist"
         self.journey = ["3D Artist", "VR Designer", "System Architect", "AI/ML Engineering"]
-        self.years_of_python = 20  # since 2004
+        self.years_of_python = 21  # since 2004
         self.passion = "Local LLMs & Scientific Visualization"
 
     def current_focus(self):
-        return ["Astronomical ML", "Blender + AI Integration", "Interactive Notebooks"]
+        return ["Autonomous Game Dev", "AI Agents & MCP", "Scientific Visualization"]
 ```
+
+---
+
+<div align="center">
+
+## 🏢 Organizations
+
+[![synapticore.studio](https://img.shields.io/badge/synapticore.studio-Game_Dev-478CBF?style=for-the-badge&logo=godot-engine&logoColor=white)](https://github.com/synapticore-studio)
+[![synapticore-io](https://img.shields.io/badge/synapticore-Scientific_Computing-FF6F00?style=for-the-badge&logo=python&logoColor=white)](https://github.com/synapticore-io)
+[![agentic-dev-io](https://img.shields.io/badge/agentic--dev-AI_Agents-000000?style=for-the-badge&logo=ollama&logoColor=white)](https://github.com/agentic-dev-io)
+
+</div>
 
 ---
 
@@ -34,6 +46,7 @@ class BjoernBethge:
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![GDScript](https://img.shields.io/badge/GDScript-355570?style=for-the-badge&logo=godot-engine&logoColor=white)
 
 ### AI/ML & Data Science
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
@@ -41,8 +54,9 @@ class BjoernBethge:
 ![MLflow](https://img.shields.io/badge/MLflow-0194E2?style=for-the-badge&logo=mlflow&logoColor=white)
 ![Ollama](https://img.shields.io/badge/Ollama-000000?style=for-the-badge&logo=ollama&logoColor=white)
 
-### 3D & Visualization
+### 3D & Game Engines
 ![Blender](https://img.shields.io/badge/Blender-E87D0D?style=for-the-badge&logo=blender&logoColor=white)
+![Godot](https://img.shields.io/badge/Godot-478CBF?style=for-the-badge&logo=godot-engine&logoColor=white)
 ![Unity](https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity&logoColor=white)
 ![Unreal Engine](https://img.shields.io/badge/Unreal-0E1128?style=for-the-badge&logo=unrealengine&logoColor=white)
 
@@ -75,9 +89,9 @@ class BjoernBethge:
 <div align="center">
 
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:bjoern.bethge@gmail.com)
+[![ORCID](https://img.shields.io/badge/ORCID-0009--0003--4500--0274-A6CE39?style=for-the-badge&logo=orcid&logoColor=white)](https://orcid.org/0009-0003-4500-0274)
 [![Ollama](https://img.shields.io/badge/Ollama-bjoernb-000000?style=for-the-badge&logo=ollama&logoColor=white)](https://ollama.com/bjoernb)
 [![PyPI](https://img.shields.io/badge/PyPI-BjoernBethge-3775A9?style=for-the-badge&logo=pypi&logoColor=white)](https://pypi.org/user/BjoernBethge/)
-[![ORCID](https://img.shields.io/badge/ORCID-A6CE39?style=for-the-badge&logo=orcid&logoColor=white)](https://orcid.org/)
 
 </div>
 
