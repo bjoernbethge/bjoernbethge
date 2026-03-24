@@ -4,7 +4,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,14,30&height=200&section=header&text=Bj%C3%B6rn%20Bethge&fontSize=60&fontAlignY=35&desc=Building%20systems%20since%20the%20C64%20%7C%20Usually%20about%20a%20year%20early&descAlignY=55&descSize=18&animation=fadeIn" width="100%"/>
 
 <!-- Typing Animation -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=1000&color=4C8EDA&center=true&vCenter=true&multiline=true&repeat=false&width=800&height=80&lines=22yr+Spatial+Computing+%7C+16yr+Automotive+(VW);AI+Agents+%E2%80%94+with+AI+as+partner%2C+not+tool)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=1000&color=4C8EDA&center=true&vCenter=true&multiline=true&repeat=false&width=800&height=80&lines=First+virtual+worlds%2C+then+digital+twins+%E2%80%94+now+AI+agents+that+build+them;Geo+sims+%C2%B7+digital+twin+of+Earth+%C2%B7+ML+models+meet+Unreal)](https://git.io/typing-svg)
 
 </div>
 
@@ -25,7 +25,7 @@ class BjoernBethge:
         return [
             "agent-farm — DuckDB-based multi-org agent swarm",
             "Multi-Model Teams — Claude as partner, not tool",
-            "Spatial Intelligence — What if cognition needs geometry, not weights?",
+            "Geo sims, digital twin of Earth, ML models meet Unreal",
         ]
 
     def changelog(self):
@@ -46,11 +46,11 @@ class BjoernBethge:
 
 | Org | Focus | What happens here |
 |-----|-------|-------------------|
-| [agentic-dev.io](https://github.com/agentic-dev-io) | **Development** | Production-grade AI systems. Tools that run in production, not die in notebooks. |
-| [synapticore.studio](https://github.com/synapticore-studio) | **Design** | Motion, space, AI. If you understand how structures move in space, you build different AI. |
-| [synapticore.io](https://github.com/synapticore-io) | **Research** | What if intelligence doesn't need weights — but geometry? |
+| [agentic-dev.io](https://github.com/agentic-dev-io) | **Development** | Agent frameworks, MCP tooling, Claude Code plugins. From idea to running system. |
+| [synapticore.io](https://github.com/synapticore-io) | **Research** | Open Science Lab. Spatial intelligence, physics-inspired ML, astronomical computing. |
+| [synapticore.studio](https://github.com/synapticore-studio) | **Design** | What if intelligence doesn't need weights — but geometry? DCC pipelines meet AI. |
 
-Research → Design → Dev. Sometimes the Ds swap. Always shipping.
+Research → Design → Dev. Sometimes the Ds swap.
 
 ---
 
@@ -60,16 +60,25 @@ Research → Design → Dev. Sometimes the Ds swap. Always shipping.
 
 ### Languages & Frameworks
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![GDScript](https://img.shields.io/badge/GDScript-355570?style=for-the-badge&logo=godot-engine&logoColor=white)
 
 ### AI/ML & Data Science
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![Polars](https://img.shields.io/badge/Polars-CD792C?style=for-the-badge&logo=polars&logoColor=white)
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
 ![MLflow](https://img.shields.io/badge/MLflow-0194E2?style=for-the-badge&logo=mlflow&logoColor=white)
 ![Ollama](https://img.shields.io/badge/Ollama-000000?style=for-the-badge&logo=ollama&logoColor=white)
+![Burn](https://img.shields.io/badge/Burn-000000?style=for-the-badge&logo=rust&logoColor=white)
+![smartcore](https://img.shields.io/badge/smartcore-000000?style=for-the-badge&logo=rust&logoColor=white)
+
+### Data & Infrastructure
 ![DuckDB](https://img.shields.io/badge/DuckDB-FFF000?style=for-the-badge&logo=duckdb&logoColor=black)
+![SurrealDB](https://img.shields.io/badge/SurrealDB-FF00A0?style=for-the-badge&logo=surrealdb&logoColor=white)
+![Qdrant](https://img.shields.io/badge/Qdrant-DC244C?style=for-the-badge&logo=qdrant&logoColor=white)
+![PyO3](https://img.shields.io/badge/PyO3-000000?style=for-the-badge&logo=rust&logoColor=white)
 
 ### 3D & Game Engines
 ![Blender](https://img.shields.io/badge/Blender-E87D0D?style=for-the-badge&logo=blender&logoColor=white)
@@ -78,6 +87,7 @@ Research → Design → Dev. Sometimes the Ds swap. Always shipping.
 
 ### Tools & Platforms
 ![uv](https://img.shields.io/badge/uv-DE5FE9?style=for-the-badge&logo=astral&logoColor=white)
+![Bun](https://img.shields.io/badge/Bun-000000?style=for-the-badge&logo=bun&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
@@ -105,20 +115,6 @@ Resolved 13 packages on PyPI. From relativistic neural nets to agent swarms. Mor
 [![Ollama](https://img.shields.io/badge/Ollama-bjoernb-000000?style=for-the-badge&logo=ollama&logoColor=white)](https://ollama.com/bjoernb)
 [![HuggingFace](https://img.shields.io/badge/🤗_HuggingFace-dev--bjoern-FFD21E?style=for-the-badge)](https://huggingface.co/dev-bjoern)
 
-</div>
-
----
-
-## 📊 GitHub Analytics
-
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=bjoernbethge&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=4C8EDA&icon_color=4C8EDA&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bjoernbethge&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=4C8EDA&langs_count=8"/>
-</div>
-
-<!-- Activity Graph -->
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=bjoernbethge&bg_color=0D1117&color=4C8EDA&line=4C8EDA&point=FFFFFF&area=true&hide_border=true" width="100%"/>
 </div>
 
 ---
