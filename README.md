@@ -38,11 +38,19 @@ class BjoernBethge:
 
 ## 🏢 Organizations
 
-[![agentic-dev-io](https://img.shields.io/badge/agentic--dev.io-Production--grade_AI_Systems-000000?style=for-the-badge&logo=ollama&logoColor=white)](https://github.com/agentic-dev-io)
-[![synapticore.studio](https://img.shields.io/badge/synapticore.studio-Motion,_Space,_AI-478CBF?style=for-the-badge&logo=blender&logoColor=white)](https://github.com/synapticore-studio)
-[![synapticore-io](https://img.shields.io/badge/synapticore.io-Spatial_Intelligence_Research-FF6F00?style=for-the-badge&logo=python&logoColor=white)](https://github.com/synapticore-io)
+[![agentic-dev-io](https://img.shields.io/badge/agentic--dev.io-000000?style=for-the-badge&logo=ollama&logoColor=white)](https://github.com/agentic-dev-io)
+[![synapticore.studio](https://img.shields.io/badge/synapticore.studio-478CBF?style=for-the-badge&logo=blender&logoColor=white)](https://github.com/synapticore-studio)
+[![synapticore-io](https://img.shields.io/badge/synapticore.io-FF6F00?style=for-the-badge&logo=python&logoColor=white)](https://github.com/synapticore-io)
 
 </div>
+
+| Org | Focus | What happens here |
+|-----|-------|-------------------|
+| [agentic-dev.io](https://github.com/agentic-dev-io) | **Development** | Production-grade AI systems. Tools that run in production, not die in notebooks. |
+| [synapticore.studio](https://github.com/synapticore-studio) | **Design** | Motion, space, AI. If you understand how structures move in space, you build different AI. |
+| [synapticore.io](https://github.com/synapticore-io) | **Research** | What if intelligence doesn't need weights — but geometry? |
+
+Research → Design → Dev. Sometimes the Ds swap. Always shipping.
 
 ---
 
@@ -78,14 +86,26 @@ class BjoernBethge:
 
 ---
 
-## 📦 PyPI
+## 📦 Published Work
 
 ```
 > uv sync björn
 Resolved 13 packages on PyPI. From relativistic neural nets to agent swarms. More brewing.
+
+> ollama list bjoernb
+8 models published. 7k+ pulls. Herding neural networks, not llamas.
+
+> huggingface-cli whoami
+3 models · 5 spaces · MCP servers that turn images into 3D objects
 ```
 
+<div align="center">
+
 [![PyPI](https://img.shields.io/badge/PyPI-BjoernBethge-3775A9?style=for-the-badge&logo=pypi&logoColor=white)](https://pypi.org/user/BjoernBethge/)
+[![Ollama](https://img.shields.io/badge/Ollama-bjoernb-000000?style=for-the-badge&logo=ollama&logoColor=white)](https://ollama.com/bjoernb)
+[![HuggingFace](https://img.shields.io/badge/🤗_HuggingFace-dev--bjoern-FFD21E?style=for-the-badge)](https://huggingface.co/dev-bjoern)
+
+</div>
 
 ---
 
@@ -109,8 +129,9 @@ Resolved 13 packages on PyPI. From relativistic neural nets to agent swarms. Mor
 
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hello@agentic-dev.io)
 [![ORCID](https://img.shields.io/badge/ORCID-0009--0003--4500--0274-A6CE39?style=for-the-badge&logo=orcid&logoColor=white)](https://orcid.org/0009-0003-4500-0274)
-[![Ollama](https://img.shields.io/badge/Ollama-bjoernb-000000?style=for-the-badge&logo=ollama&logoColor=white)](https://ollama.com/bjoernb)
 [![PyPI](https://img.shields.io/badge/PyPI-BjoernBethge-3775A9?style=for-the-badge&logo=pypi&logoColor=white)](https://pypi.org/user/BjoernBethge/)
+[![Ollama](https://img.shields.io/badge/Ollama-bjoernb-000000?style=for-the-badge&logo=ollama&logoColor=white)](https://ollama.com/bjoernb)
+[![HuggingFace](https://img.shields.io/badge/🤗_HuggingFace-dev--bjoern-FFD21E?style=for-the-badge)](https://huggingface.co/dev-bjoern)
 
 </div>
 
