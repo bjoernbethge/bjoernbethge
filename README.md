@@ -47,7 +47,7 @@ class BjoernBethge:
 | Org | Focus | What happens here |
 |-----|-------|-------------------|
 | [agentic-dev.io](https://github.com/agentic-dev-io) | **Development** | Agent frameworks, MCP tooling, Claude Code plugins. From idea to running system. |
-| [synapticore.io](https://github.com/synapticore-io) | **Research** | Open Science Lab. Spatial intelligence, physics-inspired ML, astronomical computing. |
+| [synapticore.io](https://github.com/synapticore-io) | **Research** | Open Science Lab. Spatial intelligence, physics-inspired ML, scientific computing. |
 | [synapticore.studio](https://github.com/synapticore-studio) | **Design** | What if intelligence doesn't need weights — but geometry? DCC pipelines meet AI. |
 
 Research → Design → Dev. Sometimes the Ds swap.
