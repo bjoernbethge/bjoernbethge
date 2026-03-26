@@ -123,7 +123,7 @@ Research → Design → Dev. Sometimes the Ds swap.
 
 <div align="center">
 
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hello@agentic-dev.io)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:helloworld@agentic-dev.io)
 [![ORCID](https://img.shields.io/badge/ORCID-0009--0003--4500--0274-A6CE39?style=for-the-badge&logo=orcid&logoColor=white)](https://orcid.org/0009-0003-4500-0274)
 
 </div>
