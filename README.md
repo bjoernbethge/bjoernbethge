@@ -4,7 +4,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,14,30&height=200&section=header&text=Bj%C3%B6rn%20Bethge&fontSize=60&fontAlignY=35&desc=Building%20systems%20since%20the%20C64%20%7C%20Usually%20about%20a%20year%20early&descAlignY=55&descSize=18&animation=fadeIn" width="100%"/>
 
 <!-- Typing Animation -->
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=1000&color=4C8EDA&center=true&vCenter=true&multiline=true&repeat=false&width=800&height=80&lines=First+virtual+worlds%2C+then+digital+twins+%E2%80%94+now+AI+agents+that+build+them;Geo+sims+%C2%B7+digital+twin+of+Earth+%C2%B7+ML+models+meet+Unreal"/>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=1000&color=4C8EDA&center=true&vCenter=true&multiline=true&repeat=false&width=800&height=80&lines=Virtual+worlds+%E2%86%92+digital+twins+%E2%86%92+AI+agents+that+build+them;Geo+sims+%C2%B7+digital+twin+of+Earth+%C2%B7+ML+meets+Unreal"/>
 
 </div>
 
@@ -30,7 +30,7 @@ class BjoernBethge:
         ]
 
     def changelog(self):
-        return "MCP adopter: Feb 2025. Multi-agent systems: 2023."
+        return "MCP adopter: Feb 2025. Agent systems I use daily myself."
 ```
 
 ---
