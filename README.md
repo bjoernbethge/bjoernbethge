@@ -17,9 +17,10 @@ class BjoernBethge:
     def __init__(self):
         self.building_since = "C64"
         self.spatial_computing = "22 years"
-        self.automotive = "16 years @ VW"
+        self.automotive = "16 years Automotive AR/VR (VW Group ecosystem)"
         self.movement_practice = "30 years"
-        self.philosophy = "I don't sell solutions. I build systems — with you, not for you."
+        self.positioning = "I don't sell solutions. I build systems — with you, not for you."
+        self.philosophy = "Breaking complexity down to simple solutions."
 
     def current_focus(self):
         return [
@@ -29,7 +30,7 @@ class BjoernBethge:
         ]
 
     def changelog(self):
-        return "Built multi-agent systems before they were cool. Usually about a year early."
+        return "MCP adopter: Feb 2025. Multi-agent systems: 2023."
 ```
 
 ---
@@ -100,7 +101,7 @@ Research → Design → Dev. Sometimes the Ds swap.
 
 ```
 > uv sync björn
-12 packages on PyPI. Plus co-maintaining Anthropic's skills-ref. More brewing.
+12 packages on PyPI. Plus contributing to Anthropic's skills-ref. More brewing.
 
 > ollama list bjoernb
 8 models published. 7k+ pulls. Herding neural networks, not llamas.
@@ -131,12 +132,6 @@ Research → Design → Dev. Sometimes the Ds swap.
 ---
 
 <div align="center">
-
-### 💭 Philosophy
-
-*"I don't sell solutions. I build systems — with you, not for you."*
-
----
 
 <img src="https://komarev.com/ghpvc/?username=bjoernbethge&color=4C8EDA&style=for-the-badge&label=Profile+Views"/>
 
